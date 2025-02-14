@@ -76,5 +76,5 @@
     "theme-by-language.themes": {
         "filename:.*\\.ds$": "LightDuckyScript"
     },
-    "workbench.colorTheme": "PowerShell ISE"
+    "workbench.colorTheme": "Visual Studio Dark - C++"
 }
